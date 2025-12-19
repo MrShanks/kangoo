@@ -1,5 +1,4 @@
 # kangoo
 Your personal TUI kanban board
 
-<img width="1904" height="1003" alt="image" src="https://github.com/user-attachments/assets/b684829e-d3f9-4b7d-a139-dd27ec1590ab" />
-
+<img width="690" height="437" alt="image" src="https://github.com/user-attachments/assets/3838d6b2-221d-40ef-9372-0aa62cd0ba14" />
