@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/MrShanks/scrumboard/kanban"
+	"github.com/MrShanks/kangoo/kanban"
 
 	tea "github.com/charmbracelet/bubbletea"
 )
